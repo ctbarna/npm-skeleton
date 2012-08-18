@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Chris Barna <chris@unbrain.net>",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": ">=1.3.2",
+    "chai": ">=1.2.0",
+    "coffee-script": ">=1.3.3"
+  }
+}
